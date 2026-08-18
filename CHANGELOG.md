@@ -1,3 +1,10 @@
+## 1.0.0 (2026-08-18)
+- New API `prepareRequestHeaders(_: [String: String], forURL: URL)` for preparing headers before emitting a protected request
+
+Package link -> https://package.datadome.co/ios/CoreDataDome/1.0.0%2Bbuild.0.zip
+
+Checksum: c735485cf8d3bc7f6b6c25bca491959ab1b96676d61c55b05d91b10da8f448d7
+
 ## 0.6.1 (2026-06-17)
 Package link -> https://package.datadome.co/ios/CoreDataDome/0.6.1%2Bbuild.3.zip
 
