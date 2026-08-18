@@ -1,5 +1,5 @@
 ## 1.0.0 (2026-08-18)
-- New API `prepareRequestHeaders(_: [String: String], forURL: URL)` to be called before emitting a protected request.
+- New API `prepareRequestHeaders(_: [String: String], forURL: URL)` for preparing headers before emitting a protected request
 
 Package link -> https://package.datadome.co/ios/CoreDataDome/1.0.0%2Bbuild.0.zip
 
