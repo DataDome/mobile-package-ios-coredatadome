@@ -1,7 +1,7 @@
 ## 1.1.0 (2026-10-20)
 - Add a Privacy Manifest
 - Add the option to set the HTTPCookieStorage from the Configuration initializer (HttpCookieStorage.shared by default)
-- Add a new DataDomeChallengeDisplayConfiguration that lets you make the challenges dismissable and control the challenges' WindowLevel (Alert + 1 by default)
+- Add a new DataDomeChallengeDisplayConfiguration to make challenges dismissible and control their WindowLevel (defaults to .alert + 1)
 - Fix the invisible challenges to let touches through
 - Internal fixes and optimizations
 
