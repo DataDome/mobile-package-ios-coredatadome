@@ -1,11 +1,11 @@
 ## 1.1.0 (2026-10-20)
 - Add a Privacy Manifest
-- Add the option to set the HTTPCookieStorage from the Configuration initializer (HttpCookieStorage.shared by default)
-- Add a new DataDomeChallengeDisplayConfiguration to make challenges dismissible and control their WindowLevel (defaults to .alert + 1)
-- Fix the invisible challenges to let touches through
+- Add the option to set the `HTTPCookieStorage` instance from the `Configuration` initializer (`HttpCookieStorage.shared` by default)
+- Add a new `DataDomeChallengeDisplayConfiguration` class to make challenges dismissible and control their `WindowLevel` configuration (defaults to .alert + 1)
+- Fix invisible challenges to let touches through
 - Internal fixes and optimizations
 
-Package link -> https://package.datadome.co/ios/CoreDataDome/1.1.0%2Bbuild.1.zip
+Package link -> https://package.datadome.co/ios/CoreDataDome/1.1.0%2Bbuild.2.zip
 
 Checksum: `2b26efcece3e3916210490f037c037c285006b4bc930e6185a12e36dc1b925bf`
 
